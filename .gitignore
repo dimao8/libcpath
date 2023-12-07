@@ -1,12 +1,13 @@
 # Folders
 .vscode/
 build/
-autom4.cache/
+autom4te.cache/
 
 # Autotools
 aclocal.m4
 config.h.in*
 configure
+configure~
 compile
 config.guess
 config.sub
@@ -14,6 +15,7 @@ depcomp
 install-sh
 ltmain.sh
 missing
+Makefile.in
 test-driver
 
 # Prerequisites
