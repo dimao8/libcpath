@@ -1,3 +1,21 @@
+# Folders
+.vscode/
+build/
+autom4.cache/
+
+# Autotools
+aclocal.m4
+config.h.in*
+configure
+compile
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+test-driver
+
 # Prerequisites
 *.d
 
